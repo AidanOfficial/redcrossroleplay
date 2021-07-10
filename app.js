@@ -18,3 +18,5 @@ navToggle.addEventListener('click', () => {
 		nav.classList.add('opened');
 	}
 })
+
+console.log('[ARPWeb] AviationRPWeb has loaded successfully.'); 
